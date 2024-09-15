@@ -22,5 +22,10 @@ body{
 .main-menu a{ /*Стиль примениться для всех а, входящих в элемент с классом .main-menu*/
     color: white;
     text-decoration: none;
+}
+
+.main-menu a:hover{ /*Псевдокласс hover изменяет цвет при наведении*/
+    color: aquamarine;
+    transition: 0.5s;
 
 }
