@@ -29,3 +29,9 @@ body{
     transition: 0.5s; /*Длительность анимации*/
 
 }
+.btn{
+    text-decoration: none;
+    color: azure;
+    font-weight: bold;
+    border: 2px solid azure;
+}
