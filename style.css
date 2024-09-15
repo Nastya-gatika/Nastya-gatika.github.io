@@ -34,4 +34,6 @@ body{
     color: azure;
     font-weight: bold;
     border: 2px solid azure;
+    padding: 10px;
+    border-radius: 5px;
 }
