@@ -26,6 +26,6 @@ body{
 
 .main-menu a:hover{ /*Псевдокласс hover изменяет цвет при наведении*/
     color: aquamarine;
-    transition: 0.5s;
+    transition: 0.5s; /*Длительность анимации*/
 
 }
