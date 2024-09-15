@@ -1,3 +1,12 @@
 body {
+    margin: 0%;
     font-family: 'Roboto', sans-serif;
+}
+
+.header{ /*Стиль для класса header*/
+    background-image: url(/images/background.jpg);
+    background-size: cover;
+    color: white;
+    background-color: black;
+
 }
