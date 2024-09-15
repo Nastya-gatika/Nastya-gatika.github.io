@@ -4,7 +4,7 @@ body {
 }
 
 .header{ /*Стиль для класса header*/
-    background-image: url(/images/background.jpg);
+    background-image: url(background.jpg);
     background-size: cover;
     color: white;
     background-color: black;
